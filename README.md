@@ -1,4 +1,4 @@
-                                                      HANGMAN-GAME
+                                                 HANGMAN-GAME
 *********************************************************************************************************************************
 Recreating an Hangman game for my first python project.
 	•	User enter a string to be guessed.A empty String with same length of latter is shown to user.
